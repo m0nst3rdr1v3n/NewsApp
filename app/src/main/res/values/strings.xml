@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">News App</string>
+    <string name="app_name">Fitness News</string>
+    <string name="article_section">Fitness News</string>
+    <string name="article_title">Make a lot of room for a catchy news title</string>
+    <string name="article_author">Tim K</string>
+    <string name="article_date">January 20, 2017</string>
 </resources>
